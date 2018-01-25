@@ -13,23 +13,45 @@ In many places these imagery services may be identical, however, there are times
 
 Here's examples of these different services.
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/bing.png" alt="bing">
+<p class="caption">Bing Imagery</p>
+</figure>
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/digitalGlobe.png" alt="digital globe">
+<p class="caption">Digital Globe Imagery</p>
+</figure>
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/mapbox.png" alt="bing">
+<p class="caption">Mapbox Imagery</p>
+</figure>
 
-
-
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/esri.png" alt="bing">
+<p class="caption">Esri Imagery</p>
+</figure>
 
 ### Drones
 
-As drones become more and more affordable, the ability of humanitarian organizations and individuals to capture high resolution imagery has a much lower barrier to entry. Here are some examples of using drones to improve the available imagery of an area (LINK TO BLOGS).
+As drones become more and more affordable, the ability of humanitarian organizations and individuals to capture high resolution imagery has a much lower barrier to entry. Here are some examples of using drones to improve the available imagery of an area.
 
-OpenAerialMap is a great resource for sharing and browsing available drone imagery under an open license. All services in OpenAerialMap are allowed to be traced into OpenStreetMap.
+[Drone Mapping in the Philippines](http://www.missingmaps.org/blog/2017/07/27/drone-and-street-level-imagery-in-philippines/)
+
+[OpenAerialMap](http://www.openaerialmap.org) is a great resource for sharing and browsing available drone imagery under an open license. All services in OpenAerialMap are allowed to be traced into OpenStreetMap.
 
 Here are some examples of drone imagery. Notice the increased spatial resolution and how clear the objects are. Advantages of drone imagery increased spatial resolution, low cost (compared to purchasing new satellite imagery), and the ability to fly under clouds, preventing a cloudy day from capturing the imagery you need.
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/drone_hti.png" alt="drone haiti">
+<p class="caption">Drone Imagery from Canaan, Haiti</p>
+</figure>
 
-
-
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/drone_phl.png" alt="drone philippines">
+<p class="caption">Drone Imagery from Leyte, Philippines</p>
+</figure>
 
 
 ## What are we looking at?
@@ -56,13 +78,24 @@ Density in urban areas can cause difficulties in mapping. The density combined w
 - thin lines indicate a break in the roofing, this could be an edge of a roof or building
 - be conservative - it's better to undermap and ask for feedback or assistance than potentially be mapping features that are not buildings
 
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/urbanBefore.png" alt="Urban Area">
+<p class="caption">Urban area in Chía, Colombia</p>
+</figure>
+
+<figure>
+<img src="https://arcmaps.s3.amazonaws.com/share/mappingResources/interpretingSatelliteImagery/urbanAfter.png" alt="Urban Area Mapped">
+<p class="caption">Mapped urban area in Chía, Colombia</p>
+</figure>
+
+
 ## Rural Areas
 
 There are a number of issues that come with mapping in rural areas:
 
 - Building materials are typically different in rural areas than in urban areas where there may be more access to resources. 
 (PICTURE OF BUILDING BLENDING IN WIHT BACKGROUND)
-- In hotter climates, buildings may be clustered together under limited areas of shade with trees obstructing some of them. 
+- In hotter climates, buildings may be clustered together under limited areas of shade with trees obstructing some of them. Similar to buildings in other areas, it's safe to asssume that buildings continue to where you logically believe them to be.
 
 ## Natural Features
 
